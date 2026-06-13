@@ -1,13 +1,12 @@
 # 💫 About Me:
-Mobile app developer building iOS and Android apps using React Native & Expo<br>
-I build apps entirely from my phone
+Mobile app developer building iOS and Android apps using React Native & Expo. I build apps entirely from my phone.
 
 ## 🌐 Socials:
 [
 
 ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 
-](mailto:mnnnst93@gmail.com) 
+](mailto:mnnnst93@gmail.com)
 
 # 💻 Tech Stack:
 
